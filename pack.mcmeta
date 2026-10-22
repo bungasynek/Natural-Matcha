@@ -1,0 +1,20 @@
+{
+  "pack": {
+  "pack_format": 107,
+	"min_format": [107.1],
+	"max_format": [107.1],
+    "description": [
+      {
+        "text": "Naturalist integration into Matcha Flavoured",
+        "color": "#56be4e"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "Version 1.0.1",
+        "color": "#908b8b"
+      }
+    ]
+  }
+}
